@@ -1,0 +1,7 @@
+{
+  "name": "Clip X Downloader - Pro Twitter Media & Growth Tools",
+  "description": "A comprehensive suite of Twitter/X utilities including media downloaders, text formatters, engagement calculators, and design tools, all working without an API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
